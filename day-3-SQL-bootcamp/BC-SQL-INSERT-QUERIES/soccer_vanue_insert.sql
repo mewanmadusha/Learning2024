@@ -1,0 +1,10 @@
+INSERT INTO soccer_vanue VALUES(20001,'Stade de Bordeaux',10003,'42115');
+INSERT INTO soccer_vanue VALUES(20002,'Stade Bollaert-Delelis',10004,'38223');
+INSERT INTO soccer_vanue VALUES(20003,'Stade Pierre Mauroy',10005,'49822');
+INSERT INTO soccer_vanue VALUES(20004,'Stade de Lyon',10006,'58585');
+INSERT INTO soccer_vanue VALUES(20005,'Stade VElodrome',10007,'64354');
+INSERT INTO soccer_vanue VALUES(20006,'Stade de Nice',10008,'35624');
+INSERT INTO soccer_vanue VALUES(20007,'Parc des Princes',10001,'47294');
+INSERT INTO soccer_vanue VALUES(20008,'Stade de France',10002,'80100');
+INSERT INTO soccer_vanue VALUES(20009,'Stade Geoffroy Guichard',10009,'42000');
+INSERT INTO soccer_vanue VALUES(20010,'Stadium de Toulouse',10010,'33150');

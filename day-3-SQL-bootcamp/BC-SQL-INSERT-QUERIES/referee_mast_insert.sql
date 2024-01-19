@@ -1,0 +1,18 @@
+INSERT INTO referee_mast VALUES(70001,'Damir Skomina',1225);
+INSERT INTO referee_mast VALUES(70002,'Martin Atkinson',1206);
+INSERT INTO referee_mast VALUES(70003,'Felix Brych',1208);
+INSERT INTO referee_mast VALUES(70004,'Cuneyt Cakir',1222);
+INSERT INTO referee_mast VALUES(70005,'Mark Clattenburg',1206);
+INSERT INTO referee_mast VALUES(70006,'Jonas Eriksson',1220);
+INSERT INTO referee_mast VALUES(70007,'Viktor Kassai',1209);
+INSERT INTO referee_mast VALUES(70008,'Bjorn Kuipers',1226);
+INSERT INTO referee_mast VALUES(70009,'Szymon Marciniak',1213);
+INSERT INTO referee_mast VALUES(70010,'Milorad Mazic',1227);
+INSERT INTO referee_mast VALUES(70011,'Nicola Rizzoli',1211);
+INSERT INTO referee_mast VALUES(70012,'Carlos Velasco Carballo',1219);
+INSERT INTO referee_mast VALUES(70013,'William Collum',1228);
+INSERT INTO referee_mast VALUES(70015,'Sergei Karasev',1217);
+INSERT INTO referee_mast VALUES(70016,'Pavel Kralovec',1205);
+INSERT INTO referee_mast VALUES(70017,'Svein Oddvar Moen',1229);
+INSERT INTO referee_mast VALUES(70018,'Clement Turpin',1207);
+INSERT INTO referee_mast VALUES(70014,'Ovidiu Hategan',1216);
